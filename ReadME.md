@@ -1,4 +1,4 @@
-# Salam, Mən Əkbər Mahmudow.
+# Hi, I'm Akbar Mahmudow
 
 I have been working in the Cybersecurity field as a **Senior DevOps / Back-End Specialist** for almost 4 years. I enjoy coding, participating in CTF competitions, discovering vulnerabilities through bug bounty, and continuously expanding my knowledge. Creativity is a key part of my work — I approach problems with both technical and innovative thinking.
 
