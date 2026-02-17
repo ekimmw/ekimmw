@@ -5,10 +5,12 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Ethical+Hacker;%F0%9F%92%BB+Back-End+Developer+%7C+DevOps+Engineer;%F0%9F%8F%86+CTF+Player+%7C+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Exploit+Dev+%7C+Penetration+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=%F0%9F%94%90+Cybersecurity+Specialist+%7C+Ethical+Hacker;%F0%9F%92%BB+%7C+DevOps+Engineer;%F0%9F%8F%86+CTF+Player+%7C+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Exploit+Dev+%7C+Penetration+Tester" alt="Typing SVG" />
 </a>
 
 <br/>
+
+
 
 <!-- Profile Views & Followers & Stars -->
 <img src="https://komarev.com/ghpvc/?username=ekbermahmudow&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
